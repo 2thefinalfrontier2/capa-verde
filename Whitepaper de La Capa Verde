@@ -1,0 +1,93 @@
+
+
+---
+
+**Versión 1.0 - Octubre 2024**
+
+---
+
+#### **1. Introducción**
+
+La **Capa Verde** es una plataforma de trazabilidad ecológica que sirve como intermediario entre grandes superficies (como supermercados) y los consumidores finales. Nuestra solución permite a los supermercados obtener información transparente sobre el origen de los productos que comercializan, calcular su huella de carbono promedio y compensarla mediante la compra de créditos de carbono y biodiversidad tokenizados. Además, ofrece a los consumidores la opción de invertir directamente en bonos verdes tokenizados para mitigar la huella ecológica del producto que consumen, incentivando una cadena de suministro más sostenible.
+
+---
+
+#### **2. Problema**
+
+La creciente demanda de sostenibilidad por parte de consumidores y reguladores exige que las empresas, particularmente los supermercados, garanticen la transparencia en el origen de sus productos y en su impacto ambiental. Sin embargo, existen varios desafíos:
+
+- **Falta de trazabilidad**: Los productos carecen de datos accesibles y verificables sobre su origen y cadena de suministro, dificultando la medición del impacto ambiental.
+- **Huella de carbono creciente**: Las cadenas de suministro globales emiten grandes cantidades de CO₂, contribuyendo al cambio climático, pero pocas empresas miden o compensan adecuadamente estas emisiones.
+- **Falta de incentivos para el consumidor**: Aunque los consumidores se preocupan cada vez más por el medio ambiente, pocas plataformas les permiten contribuir activamente a la mitigación del impacto ambiental de sus compras.
+
+---
+
+#### **3. Solución**
+
+**La Capa Verde** aborda estos problemas a través de una plataforma tecnológica que conecta a los actores de la cadena de suministro y permite un cálculo preciso de la huella ecológica de los productos. Los componentes clave de la solución son:
+
+- **Trazabilidad del origen de los productos**: Los supermercados podrán acceder a información detallada proporcionada por los proveedores sobre el lugar de producción, métodos utilizados, y prácticas agrícolas o industriales, todo verificado en nuestra plataforma.
+  
+- **Cálculo de huella de carbono**: Usamos algoritmos y datos de referencia para medir la huella de carbono promedio de cada producto, considerando desde el origen de la materia prima hasta la llegada al supermercado.
+
+- **Compensación mediante créditos tokenizados**: Ofrecemos un mercado de créditos de carbono y biodiversidad tokenizados utilizando tecnología blockchain. Estos créditos pueden ser adquiridos por los supermercados para compensar las emisiones asociadas a los productos que venden.
+
+- **Bonos verdes para consumidores**: Los consumidores tienen la oportunidad de mitigar directamente la huella ecológica de sus compras invirtiendo en bonos verdes que financian proyectos ambientales, como la reforestación o la restauración de ecosistemas, también registrados en la blockchain.
+
+---
+
+#### **4. Arquitectura Tecnológica**
+
+##### **Blockchain**
+Utilizamos **Ethereum** para tokenizar los créditos de carbono y biodiversidad, garantizando la transparencia y seguridad de las transacciones. Cada transacción es registrada en una red descentralizada, lo que asegura que las compensaciones sean visibles y verificables públicamente.
+
+##### **Motor de cálculo de huella de carbono**
+Desarrollamos un algoritmo que recopila datos sobre los procesos productivos, transporte, y consumo energético para calcular la huella de carbono de cada producto. Este cálculo se realiza en función de estándares reconocidos como los de la **ISO 14067** y datos de organizaciones como la **FAO**.
+
+##### **Interfaz de usuario (UI)**
+Tanto supermercados como consumidores acceden a la plataforma mediante una aplicación web o móvil, donde pueden consultar datos de trazabilidad, realizar compras de créditos de carbono y biodiversidad, e invertir en bonos verdes.
+
+---
+
+#### **5. Modelo de Negocio**
+
+**La Capa Verde** obtiene ingresos a través de tres vías principales:
+
+- **Comisiones sobre ventas de créditos de carbono y biodiversidad**: Los supermercados que compensan su huella ecológica a través de nuestra plataforma pagan una comisión por cada transacción realizada.
+  
+- **Inversiones de consumidores en bonos verdes**: Los consumidores pueden invertir en proyectos de mitigación y recibir beneficios ecológicos o económicos a cambio, generando una comisión para la plataforma.
+
+- **Suscripción por acceso a la plataforma**: Proveedores y supermercados pagan una tarifa de suscripción por acceder a los servicios de trazabilidad de productos y cálculo de huella de carbono.
+
+---
+
+#### **6. Impacto Ambiental y Social**
+
+Con **La Capa Verde**, promovemos la transparencia en las cadenas de suministro y contribuimos a la reducción de emisiones de CO₂. Además, impulsamos la inversión en proyectos verdes que regeneran ecosistemas y protegen la biodiversidad. Nuestro objetivo es crear un mercado donde la sostenibilidad no solo sea una opción, sino una norma.
+
+---
+
+#### **7. Roadmap**
+
+##### **Fase 1 (Q1 2025):** 
+- Desarrollo de la plataforma de trazabilidad.
+- Implementación del sistema de cálculo de huella de carbono.
+
+##### **Fase 2 (Q2 2025):** 
+- Integración del marketplace de créditos tokenizados.
+- Lanzamiento de la interfaz de consumidor para la compra de bonos verdes.
+
+##### **Fase 3 (Q4 2025):** 
+- Expansión a mercados internacionales.
+- Alianzas con proyectos de compensación de carbono y biodiversidad a nivel global.
+
+---
+
+#### **8. Conclusión**
+
+**La Capa Verde** ofrece una solución innovadora para la trazabilidad y compensación de la huella ecológica en la cadena de suministro de productos, involucrando tanto a supermercados como a consumidores. Al facilitar la transparencia y la compensación mediante blockchain, contribuimos a una economía más sostenible y a la regeneración del medio ambiente.
+
+---
+
+Este whitepaper puede ser ajustado según la evolución del proyecto, nuevos requerimientos del mercado o avances tecnológicos.
+
